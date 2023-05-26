@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  background-color: bisque;
+}
+
+a {
+  color: rgb(8, 170, 170);
+  padding: 10px;
+}
+
+.email {
+  padding: 0;
+  color: blue;
+}
+img {
+  max-width: 100%;
+  display: block;
+  margin: auto;
+  border-radius: 15px;
+}
+
+.links {
+  margin-top: 20px;
+}
